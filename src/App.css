@@ -86,4 +86,34 @@ form{
 .flex{
   display: flex;
   flex-direction: row;
+  align-items: center;
+}
+
+.tituloNav{
+  font-family: 'Comfortaa';
+  font-size: 25px;
+  color: #fff;
+}
+
+.caixa{
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.links{
+  color: #fff;
+  font-family: 'Comfortaa';
+  font-size: 25px;
+}
+
+Nav.Link{
+  color: #fff;
 }
