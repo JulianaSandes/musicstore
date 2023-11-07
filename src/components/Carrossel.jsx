@@ -5,9 +5,9 @@ function Carrossel() {
     <Carousel fade>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src="https://img.freepik.com/fotos-gratis/guitarra-acustica-e-teclas-musicais-em-um-plano-de-fundo-branco_169016-16616.jpg?w=1060&t=st=1699278693~exp=1699279293~hmac=9c98d1bffc9b1e298a613dcaa5ae5d479b9a2b4fe86bfe9c2ee5d426a46ecc3e"
-          alt="computador1"
+          className="d-block w-100 h-60"
+          src="https://img.freepik.com/fotos-gratis/guitarra-acustica-e-tarola-em-um-fundo-preto-isolado_169016-30365.jpg?w=740&t=st=1699314780~exp=1699315380~hmac=b1db9741c481bf79146056bdb9d4da1044c63930667d4c2cfdc54ff3d756e4f4"
+          alt="imagem 1"
         />
         <Carousel.Caption>
           <h3 class='text-carrosel'>Conheça os nossos produtos</h3>
@@ -15,9 +15,9 @@ function Carrossel() {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-          alt="Second slide"
+          className="d-block w-100 h-60"
+          src="https://img.freepik.com/fotos-gratis/fundo-de-musica-plana-leiga-com-violao-e-bateria_169016-21132.jpg?w=740&t=st=1699314452~exp=1699315052~hmac=fe6db218bf3375dc69e13ab2aba48f0bb14913b61529ee3c5ea5483f47a61bfe"
+          alt="imagem 2"
         />
 
         <Carousel.Caption>
@@ -26,9 +26,9 @@ function Carrossel() {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src="https://images.pexels.com/photos/326508/pexels-photo-326508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-          alt="Third slide"
+          className="d-block w-100 h-60"
+          src="https://img.freepik.com/fotos-gratis/homem-tocando-violao-e-close-up-de-piano-gravando-notas-bela-cor-de-fundo-conceito-de-atividade-musical_169016-4459.jpg?w=826&t=st=1699314501~exp=1699315101~hmac=ccb52867da80580f866e0bf4f75f6a60ab171b54d14d62290bc2a255747f956d"
+          alt="imagem 3"
         />
 
         <Carousel.Caption>

@@ -15,11 +15,10 @@ function Sobre() {
         </div>
         <div>
           <p className="sobre-p">
-          Bem-vindo à nossa loja de informática, um paraíso para entusiastas da tecnologia e amantes de computadores! Aqui, temos tudo o que você precisa para satisfazer sua paixão por dispositivos eletrônicos, componentes de computador e soluções inteligentes para suas necessidades tecnológicas.
+          Bem-vindo à MusicStore, o seu destino definitivo para tudo relacionado à música. Localizada no coração da cidade, a MusicStore não é apenas uma loja de instrumentos musicais; é um local onde a música ganha vida. Nossa loja oferece uma ampla variedade de instrumentos musicais, acessórios e conhecimento, criando um ambiente inspirador para músicos de todos os níveis.
           </p>
           <p className="sobre-p">
-          Se você é um profissional em busca de ferramentas de trabalho eficientes, temos uma variedade de laptops, tablets e softwares de produtividade para ajudá-lo a alcançar seus objetivos. Desde máquinas potentes com telas de alta resolução até programas de edição de vídeo e design gráfico de última geração, tudo o que você precisa para criar e realizar está ao seu alcance.
-          </p>
+          Se você é um músico apaixonado, um aspirante a artista ou alguém que simplesmente aprecia os sons que a música pode oferecer, a MusicStore é o lugar onde você pode transformar sua paixão em realidade. Venha visitar a MusicStore e descubra o mundo mágico da música em suas mãos. A música está esperando por você na MusicStore!          </p>
         </div>
     </div>
     </div>
